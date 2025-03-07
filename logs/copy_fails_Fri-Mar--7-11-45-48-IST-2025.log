@@ -1,0 +1,24 @@
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Gifs/Sent/VID-20240518-WA0001.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Gifs/Sent/VID-20240521-WA0006.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Gifs/Sent/VID-20240909-WA0001.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Video/Sent/VID-20250306-WA0007.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Video/Sent/VID-20250306-WA0008.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Video/VID-20250307-WA0000.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/360p_MEDIUM_FR30.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Video/4_5835877239681451750.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/09_1_1.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/09_9_16.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/09_16_9.mp4" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/(1).m4v" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]

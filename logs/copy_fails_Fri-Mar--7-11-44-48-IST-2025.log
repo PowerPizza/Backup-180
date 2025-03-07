@@ -1,0 +1,150 @@
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250306-WA0000.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/Sent/IMG-20250213-WA0005.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/Sent/IMG-20250306-WA0005.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/Sent/IMG-20250305-WA0001.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/Sent/IMG-20250306-WA0006.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/Sent/IMG-20250302-WA0000.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250306-WA0003.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250205-WA0003.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250307-WA0001.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250307-WA0002.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250307-WA0003.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250307-WA0004.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250307-WA0005.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250207-WA0000.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250210-WA0000.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250211-WA0002.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250214-WA0004.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250214-WA0006.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250214-WA0008.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250214-WA0010.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250214-WA0012.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250214-WA0014.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250214-WA0016.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250216-WA0000.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250218-WA0000.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250219-WA0000.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250219-WA0001.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250219-WA0002.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250220-WA0001.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/null-20250222-WA0001.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250222-WA0005.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250222-WA0006.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250223-WA0008.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250223-WA0010.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250225-WA0001.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250227-WA0000.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250301-WA0000.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250226-WA0022.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250303-WA0000.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Images/IMG-20250303-WA0003.jpeg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/20241218_215400.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/20241218_221135.jpg" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20231226-WA0022.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20241204-WA0015.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20240101-WA0003.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20250101-WA0000.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20250203-WA0005.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20240728-WA0020.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20240808-WA0008.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20250116-WA0008.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20250212-WA0013.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20240816-WA0001.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20230519-WA0013.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20250214-WA0025.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20250218-WA0003.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20250222-WA0007.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20240222-WA0022.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20250306-WA0004.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20240310-WA0007.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20241005-WA0004.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20241005-WA0005.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/STK-20241102-WA0001.webp" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/CheckMates.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/HolidayCats.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Stickers/BlobTheFish.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Document/c1f2caef-9fb9-413a-8c4e-d0b20f179a4f.pdf_20250225_193541054_3948522268031176548.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Document/c1f2caef-9fb9-413a-8c4e-d0b20f179a4f.pdf_20250225_193618293_6908780996432007928.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Document/c1f2caef-9fb9-413a-8c4e-d0b20f179a4f.pdf_20250225_193637063_5912486473984765354.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Document/c1f2caef-9fb9-413a-8c4e-d0b20f179a4f.pdf_20250225_193704175_5159140951347466056.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Document/c1f2caef-9fb9-413a-8c4e-d0b20f179a4f.pdf_20250225_193751640_3447775835963908964.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Document/c1f2caef-9fb9-413a-8c4e-d0b20f179a4f.pdf_20250225_193808539_6300115735901205785.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Document/c1f2caef-9fb9-413a-8c4e-d0b20f179a4f.pdf_20250225_193824998_4029270420835922048.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Document/c1f2caef-9fb9-413a-8c4e-d0b20f179a4f.pdf_20250225_193904140_1790791423700599073.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Document/c1f2caef-9fb9-413a-8c4e-d0b20f179a4f.pdf_20250225_193920552_8446887617920114992.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
+rsync: [sender] link_stat "/data/data/com.termux/files/home/backup-180/Document/c1f2caef-9fb9-413a-8c4e-d0b20f179a4f.pdf_20250225_193940349_753197942829209364.png" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1338) [sender=3.4.1]
