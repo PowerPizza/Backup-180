@@ -1,5 +1,5 @@
 #!/bin/bash
-#test
+
 if ! command -v zip > /dev/null
 then
     echo "Installing package : zip"
