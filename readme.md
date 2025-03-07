@@ -2,6 +2,9 @@
 This tool/script helps in creating backup of certain file categories.  
 Till now it provides option to create backup of Image files, Video files, Audio files, Documents, Executables, Compressions etc.
 
+# Demo video
+[YouTube/code2exe](https://youtu.be/tQP24TAZvPo?si=dzoAg7oR3hQDAbRN)
+
 # How it works
 When you select the option to backup, after running the tool.   
 It searches for all the files falls in that selected category and if it finds any so it copies that file into a certain location.  
@@ -55,3 +58,4 @@ So I think you should check this folder out for once after running the script.
 * Only for Linux or Termux.
 * No GUI available.
 * You have to manually open the `settings.conf` file and edit it properly.
+
