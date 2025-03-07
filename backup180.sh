@@ -19,7 +19,7 @@ then
     mkdir logs
 fi
 
-source settings.conf
+source $(dirname "$0")/settings.conf
 #echo $saving_path
 if [ ! -d $saving_path/backup_files ]
 then
@@ -100,11 +100,21 @@ file_checker(){
 find_log_fname=logs/$(date | tr " " "-" | tr ":" "-").log
 rsync_log_fname=logs/copy_fails_$(date | tr " " "-" | tr ":" "-").log
 
-echo -n -e "\033[0;36mEnter output folder name :- "
-read output_fname
-echo -e "\033[0m"
+fd_created=0
+while [ $fd_created -eq 0 ]
+do
+    echo -n -e "\033[0;36mEnter output folder name :- "
+    read output_fname
+    echo -e "\033[0m"
+    mkdir $saving_path/$output_fname
+    if [ $? -eq 0 ]
+    then
+      fd_created=1
+    fi
+done
 
-mkdir $saving_path/$output_fname
+
+
 scanning_for=""
 case $opt in
     1) scanning_for="image files";;
