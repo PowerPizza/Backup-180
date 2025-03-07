@@ -147,7 +147,7 @@ do
     fi
 
     scanned_items=$(($scanned_items+1))
-    printf "\033[0;33m%d images found & %d items has been scanned.\r" $found_items $scanned_items
+    printf "\033[0;33m%d $scanning_for found & %d items has been scanned.\r" $found_items $scanned_items
   done
   printf "\033[0;32m\nScan finished for $sc_path\n\n"
 done
