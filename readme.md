@@ -58,4 +58,5 @@ So I think you should check this folder out for once after running the script.
 * Only for Linux or Termux.
 * No GUI available.
 * You have to manually open the `settings.conf` file and edit it properly.
-
+* Time take by this script to backup the files, depends upon number of files you have in your device.
+* If backing up large files so programs may seems stuck since copying file is a background process so be patience.
