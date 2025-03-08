@@ -23,7 +23,7 @@ source $(dirname "$0")/settings.conf
 #echo $saving_path
 if [ ! -d $saving_path/backup_files ]
 then
-    mkdir $saving_path/backup_files
+    mkdir "$saving_path/backup_files"
 fi
 saving_path=$saving_path/backup_files
 
@@ -106,7 +106,7 @@ do
     echo -n -e "\033[0;36mEnter output folder name :- "
     read output_fname
     echo -e "\033[0m"
-    mkdir $saving_path/$output_fname
+    mkdir "$saving_path/$output_fname"
     if [ $? -eq 0 ]
     then
       fd_created=1
@@ -143,13 +143,14 @@ do
     if [ $file_type_code -eq $opt ]
     then
       found_items=$(($found_items+1))
-      rsync -R $i $saving_path/$output_fname 2>> $rsync_log_fname
+      rsync -R $i "$saving_path/$output_fname" 2>> $rsync_log_fname
     fi
 
     scanned_items=$(($scanned_items+1))
-    printf "\033[0;33m%d $scanning_for found & %d items has been scanned.\r" $found_items $scanned_items
+    printf "\033[0;33m%d $scanning_for found.\n\033[0;33m%d items has been scanned.\033[1A\r" $found_items $scanned_items
   done
-  printf "\033[0;32m\nScan finished for $sc_path\n\n"
+  echo -e "\033[1E"
+  printf "\033[0;32mScan finished for $sc_path\n\n"
 done
 
 echo -e "\033[0m"
