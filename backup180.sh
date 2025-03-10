@@ -131,11 +131,13 @@ case $opt in
 esac
 echo "Packing all $scanning_for into $output_fname folder"
 
+old_ifs=$IFS
 for sc_path in $scan_paths
 do
   printf "\n\033[0;32mScanning into $sc_path\n\033[0m"
   scanned_items=0
   found_items=0
+  IFS=$'\n'
   for i in $(find $sc_path -type f 2>> $find_log_fname)
   do
     file_checker $i
@@ -143,12 +145,13 @@ do
     if [ $file_type_code -eq $opt ]
     then
       found_items=$(($found_items+1))
-      rsync -R $i "$saving_path/$output_fname" 2>> $rsync_log_fname
+      rsync -R "$i" "$saving_path/$output_fname" 2>> $rsync_log_fname
     fi
 
     scanned_items=$(($scanned_items+1))
     printf "\033[0;33m%d $scanning_for found.\n\033[0;33m%d items has been scanned.\033[1A\r" $found_items $scanned_items
   done
+  IFS=$old_ifs
   echo -e "\033[1E"
   printf "\033[0;32mScan finished for $sc_path\n\n"
 done
